@@ -1,0 +1,4 @@
+F:\OOP C++ Programming HW\HangmanProjectFromHighSchool\HangmanProjectFromHighSchool\obj\Debug\Interop.WMPLib.dll
+F:\OOP C++ Programming HW\HangmanProjectFromHighSchool\HangmanProjectFromHighSchool\obj\Debug\HangmanProjectFromHighSchool.csproj.ResolveComReference.cache
+F:\OOP C++ Programming HW\HangmanProjectFromHighSchool\HangmanProjectFromHighSchool\obj\Debug\HangmanProjectFromHighSchool.Properties.Resources.resources
+F:\OOP C++ Programming HW\HangmanProjectFromHighSchool\HangmanProjectFromHighSchool\obj\Debug\HangmanProjectFromHighSchool.csproj.GenerateResource.Cache
